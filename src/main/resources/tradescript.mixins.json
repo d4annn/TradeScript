@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "getta.tradescript.mixins",
+  "compatibilityLevel": "JAVA_16",
+  "client": [
+    "InGameHudMixin",
+    "IMixinMerchantScreen",
+    "IMixinScreenWithHandler",
+    "IMixinSlot",
+    "MixinMerchantScreenHandler"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
