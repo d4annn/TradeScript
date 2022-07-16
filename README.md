@@ -1,9 +1,11 @@
-# Crafting Panel
-
-## Setup
-
-You need fabric api and malilib mods.
+# TradeScript
 
 ## Usage
 
-To open the menu you can go to controls and search for crafting panel or with modmenu.
+Go to the site where the villager is and click the hotkey.
+
+## Options
+
+Use /tradescript options to see them
+drop -> if enabled the traded items will be dropped
+tradeSlot -> the slot of the trade you want to trade, starting by 0
